@@ -1,0 +1,16 @@
+[push]
+	default = simple
+[alias]
+	co = checkout
+	br = branch
+	ll = log --oneline
+	last = log -1 HEAD --stat
+	dv = difftool -t vimdiff -y
+	st = status
+	df = diff
+	ci = commit -v
+	cm = commit -m
+	cma = commit --amend -m
+	rv = remote -v
+	pl = pull
+	ps = push
