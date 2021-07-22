@@ -1,3 +1,5 @@
+PROMPT="%n %. %% "
+
 alias gh="cd ~/github/github"
 alias c="bin/console"
 alias rt="bin/rails test"
