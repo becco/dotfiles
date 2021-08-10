@@ -1,4 +1,4 @@
-PROMPT="%n %. %% "
+PROMPT="becco %. "
 
 alias gh="cd ~/github/github"
 alias c="bin/console"
