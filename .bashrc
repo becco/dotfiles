@@ -1,5 +1,3 @@
-PROMPT="becco %. "
-
 alias gh="cd ~/github/github"
 alias c="bin/console"
 alias rt="bin/rails test"
@@ -9,3 +7,4 @@ alias ghdotcom="echo dotcom > tmp/runtime/current"
 alias bootstrap="script/bootstrap"
 alias pristine="script/bootstrap --pristine"
 alias nuke="script/bootstrap --nuke-from-orbit"
+alias server="script/server"
